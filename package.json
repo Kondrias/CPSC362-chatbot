@@ -1,0 +1,23 @@
+{
+  "name": "cspc_362_tuffy_co_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^12.0.8",
+    "cron": "^1.7.1",
+    "discord.js": "^11.5.1",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "googleapis": "^39.2.0",
+    "node-cron": "^2.0.3"
+  },
+  "devDependencies": {
+    "@types/node-cron": "^2.0.2"
+  }
+}
